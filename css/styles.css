@@ -564,10 +564,10 @@ ol {
   width: calc((100% - 48px) / 3);
 }
 
-.projects-item:hover .projects-cover-text {
+.projects-link:hover .projects-cover-text {
   transform: translateY(0);
 }
-.projects-item:focus .projects-cover-text {
+.projects-link:focus .projects-cover-text {
   transform: translateY(0);
 }
 
